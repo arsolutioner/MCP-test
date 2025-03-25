@@ -1,1 +1,1 @@
-# No external dependencies for this simple project
+# No additional requirements needed for this simple port scanner
